@@ -6,6 +6,7 @@ $n = $_GET['n'];
 $e = $_GET['e'];
 
 if ($nombre==$n){
+    
     echo $e+$edad ;
 
 }
